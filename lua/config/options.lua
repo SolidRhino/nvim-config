@@ -3,7 +3,7 @@
 -- Add any additional options here
 
 if vim.g.neovide then
-  --vim.o.guifont = "MesloLGL Nerd Font:h14"
+  vim.o.guifont = "JetBrainsMono Nerd Font:h16"
   vim.g.neovide_hide_mouse_when_typing = true
   vim.g.neovide_fullscreen = true
 
